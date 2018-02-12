@@ -5,5 +5,4 @@
 
 #### 개발도구: Eclipse(Mars),
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) Video Label
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HndN6P9ke6U" frameborder="0" allowfullscreen></iframe>
