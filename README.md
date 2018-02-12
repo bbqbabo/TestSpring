@@ -5,5 +5,4 @@
 
 #### 개발도구: Eclipse(Mars),
 
-     <iframe width="560" height="315" src="http//www.youtube.com/embed/c_m2F_ph_uU" frameborder="0" allowfullscreen>
-     </iframe>
+  [[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
