@@ -1,0 +1,21 @@
+
+#1 assets/material-dashboard.css 파일변경 요청.
+
+.pagination>.active>span:hover {
+    background-color: #5cb85c;
+    border-color: #9c27b0;
+    color: #FFFFFF;
+    box-shadow: 0 4px 5px 0 rgba(156, 39, 176, 0.14), 0 1px 10px 0 rgba(156, 39, 176, 0.12), 0 2px 4px -1px rgba(156, 39, 176, 0.2);
+}
+
+수정부분 : 이부분. ex_css 에 있던게 아니라 다른 파일 css 에 있었음. 
+
+결과 : 페이징버튼 초록색 색깔변경 완료
+
+
+#2 ex_poss/  ex_read 디자인 변경완료
+
+
+# ex_rkh폴더 복사붙이기.
+
+#그외 파일은 건드리지 않음.

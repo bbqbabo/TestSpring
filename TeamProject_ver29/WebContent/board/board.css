@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+.container {
+    width: 500px;
+   }
+.col-sm-6 {
+    width: 100%;
+}
+  

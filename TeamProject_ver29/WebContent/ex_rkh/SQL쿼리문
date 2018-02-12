@@ -1,0 +1,13 @@
+	
+
+
+create table ex_post(
+			num int primary key auto_increment,
+			subject varchar(30) not null,
+			content varchar(100) not null,
+			regdate timestamp null default current_timestamp
+			);
+			
+			
+			
+			
